@@ -1,5 +1,6 @@
 # NOTAS:
 
+```
 Opciones:
 --help Muestra ayuda [booleano]
 --version Muestra número de versión [booleano]
@@ -8,3 +9,4 @@ Opciones:
 exitosamente [booleano]
 -h, --hasta valor que determina hasta donde se va crear la tabla
 [número] [defecto: 9]
+```
